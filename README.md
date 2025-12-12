@@ -50,12 +50,6 @@ I specialize in building **Hybrid AI Architectures**—combining the speed of de
 
 ---
 
-### 📊 GitHub Stats
-
-![Li Qi's GitHub stats](https://github-readme-stats.vercel.app/api?username=liqi-05&show_icons=true&theme=pastel)
-
----
-
 ### 📫 Connect with Me
 * **Portfolio:** [resume-beta-ten-46.vercel.app](https://testing-plum-six.vercel.app/)
 * **LinkedIn:** [linkedin.com/in/your-profile](https://www.linkedin.com/in/lee-li-qi-ab1203288/)
