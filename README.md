@@ -1,6 +1,6 @@
 # Hi there, I'm Lee Li Qi! 👋
 
-> **Computer Science Student | AI Product Engineer | Full Stack Developer**
+> **Computer Science Student**
 
 I specialize in building **Hybrid AI Architectures**—combining the speed of deterministic algorithms (DSA) with the creativity of Generative AI. My goal is to build software that is not just "smart," but fast, privacy-first, and cost-efficient.
 
@@ -51,6 +51,6 @@ I specialize in building **Hybrid AI Architectures**—combining the speed of de
 ---
 
 ### 📫 Connect with Me
-* **Portfolio:** [resume-beta-ten-46.vercel.app](https://testing-plum-six.vercel.app/)
-* **LinkedIn:** [linkedin.com/in/your-profile](https://www.linkedin.com/in/lee-li-qi-ab1203288/)
+* **Portfolio:** [portfolio-website <3](https://testing-plum-six.vercel.app/)
+* **LinkedIn:** [my linkedin profile](https://www.linkedin.com/in/lee-li-qi-ab1203288/)
 * **Email:** [leeliqi1117@gmail.com](mailto:your-email@example.com)
