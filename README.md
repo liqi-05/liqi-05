@@ -2,7 +2,7 @@
 
 > **Computer Science Student**
 
-I specialize in building **Hybrid AI Architectures**—combining the speed of deterministic algorithms (DSA) with the creativity of Generative AI. My goal is to build software that is not just "smart," but fast, privacy-first, and cost-efficient.
+I specialize in Full Stack Engineering where robust infrastructure meets delightful design. I am passionate about bridging the gap between high-concurrency backends and pixel-perfect frontends to build software that feels magical. By combining the scalability of distributed systems with the creativity of Hybrid AI, I craft applications that are technically powerful on the server but simple, beautiful, and a genuine easy to use.
 
 ---
 
