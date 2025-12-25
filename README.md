@@ -44,9 +44,9 @@ I specialize in building **Hybrid AI Architectures**—combining the speed of de
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **[🌊 HabitFlow](#)**<br>*(AI Wellness Engine)* | A zero-backend "Personal Data Science" platform. Uses **Client-Side Linear Regression** and **Gemini 2.5** to predict burnout risk and correlate habits with mood. | `React 19` `TypeScript` `Gemini AI` `Local ML` |
-| **[🚀 ResumePop](#)**<br>*(Hybrid AI Optimizer)* | A resume analysis tool featuring a **Hybrid Architecture**. Uses deterministic **DSA (Set Theory)** for instant O(1) keyword scoring and LLMs for qualitative coaching. | `React` `DSA` `OpenAI API` `Serverless` |
-| **[📚 Library System](#)**<br>*(Legacy Backend)* | A robust inventory management system demonstrating core Computer Science fundamentals in memory management and file handling. | `C / C++` `File Handling` `Data Structures` |
+| **[🎫 FairTix](https://github.com/liqi-05/ticketing-system)**<br>*(High-Concurrency Engine)* | Architected a distributed system handling **10k+ concurrent requests** using **.NET 9** and **Redis**. Features a "Waiting Room" queue pattern and **PostgreSQL Optimistic Concurrency** to ensure ACID compliance during traffic spikes. | `.NET 9` `Redis` `PostgreSQL` `Docker` `System Design` |
+| **[🌊 HabitFlow](https://habit-tracker-gamma-two.vercel.app/)**<br>*(AI Wellness Engine)* | A privacy-first, zero-backend platform using **React 19**. Implements **Client-Side ML (Linear Regression)** for burnout prediction and integrates **Gemini 2.5** for multimodal voice-to-JSON data logging. | `React 19` `TypeScript` `Gemini 2.5` `Client-Side ML` |
+| **[🚀 ResumePop](https://resume-beta-ten-46.vercel.app/)**<br>*(Hybrid AI Optimizer)* | Engineered a serverless tool with **O(1) Set Theory tokenization**, eliminating backend costs and reducing analysis latency by **95%**. Hybrids deterministic DSA scoring with LLM coaching. | `React` `DSA` `AI Engineering` `TypeScript` `Tailwind` |
 
 ---
 
